@@ -8,10 +8,25 @@ Ideal for **dynamic analysis** of fileless malware and monitoring suspicious fil
 ### Features:
 - Monitor multiple file system paths.
 - Specify file extensions to detect.
-- Real-time monitoring with a **0.1 second delay**.
+- Real-time monitoring **0.1 second delay**.
 - Exclude specific file types from monitoring.
 
 ---
+
+### Usage:
+
+#### Executable (Recommended)
+```bash
+.\Tripwire.exe
+```
+
+#### Python
+```bash
+pip install watchdog colorama
+git clone https://github.com/yourusername/Tripwire.git
+python Tripwire.py
+cd Tripwire
+```
 
 ### Example:
 

@@ -1,4 +1,4 @@
 # Tripwire
 Forensics tool to monitor and snapshot temporary files created by malware.
 
-![Github-Example-1](https://github.com/user-attachments/assets/e9bad519-c85a-4e41-a8bb-5a0e9f02a433)
+![image](https://github.com/user-attachments/assets/fd6745c2-b22d-406c-b7cd-eb869bc32bfd)
